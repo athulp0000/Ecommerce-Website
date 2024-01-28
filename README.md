@@ -1,12 +1,12 @@
 # Ecommerce-Website
 
-Creating a Full Stack Ecommerce Website Using React JS, MongoDB, Express JS and Node JS.
+**Creating a Full Stack Ecommerce Website Using React JS, MongoDB, Express JS and Node JS.**
 
 
 Developed a MERN Stack E-commerce Website:
 
-Designed and implemented a full-stack e-commerce website using React JS for the frontend, MongoDB for the database, and Express and Node JS for the backend. The frontend showcased product displays, a shopping cart, and user authentication features.
-Implemented RESTful APIs for E-commerce Functionality:
+Designed and implemented a full-stack e-commerce website using **React JS** for the frontend, **MongoDB** for the database, and **Express** and **Node JS** for the backend. The frontend showcased product displays, a shopping cart, and user authentication features.
+Implemented **RESTful APIs** for E-commerce Functionality:
 
 Developed robust APIs using Express and Node JS to support core e-commerce functionalities, including adding and updating products, displaying product information, managing shopping cart items, and implementing user login and registration features.
 Designed and Implemented Admin Panel:
