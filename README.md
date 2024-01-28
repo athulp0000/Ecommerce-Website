@@ -12,9 +12,15 @@ Developed robust APIs using Express and Node JS to support core e-commerce funct
 Designed and Implemented Admin Panel:
 
 Created an intuitive admin panel within the e-commerce website, allowing seamless addition and updating of products. Implemented features for administrators to manage product-related information, enhancing the overall functionality and user experience of the online store.
+
+_**Home Page**_
 ![image](https://github.com/athulp0000/Ecommerce-Website/assets/62958311/f8aeda3a-0797-4179-8857-1d31183de1ab)
 
+**_Sign up and login_**
+
 ![image](https://github.com/athulp0000/Ecommerce-Website/assets/62958311/107706ea-a46c-4a56-82c2-b8af4e7d167b)
+
+**_Cart Page_**
 
 ![image](https://github.com/athulp0000/Ecommerce-Website/assets/62958311/e0f45512-05e4-445c-965c-5a03f863f805)
 
